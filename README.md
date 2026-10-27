@@ -177,7 +177,7 @@ Electron · React · TypeScript · SQLite · طباعة ESC/POS raster للعر�
 
 ## المطوّر
 
-برمجة وتطوير **AbuDergham** · واتساب [+970569337729](https://wa.me/970569337729)
+برمجة وتطوير **AbuDergham**·  )
 
 ---
 
